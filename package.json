@@ -1,0 +1,21 @@
+{
+  "name": "myfirstplaywright",
+  "version": "1.0.0",
+  "description": "Node.js version: 18.12.1",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefflee/MyFirstPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefflee/MyFirstPlaywright/issues"
+  },
+  "homepage": "https://github.com/jefflee/MyFirstPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.1"
+  }
+}
